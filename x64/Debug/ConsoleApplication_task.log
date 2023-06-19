@@ -1,0 +1,10 @@
+﻿  task-1.cpp
+  task-2.cpp
+C:\Users\admin\source\repos\ConsoleApplication_task\task-2.cpp(36,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\admin\source\repos\ConsoleApplication_task\task-2.cpp(76,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\admin\source\repos\ConsoleApplication_task\task-2.cpp(114,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\admin\source\repos\ConsoleApplication_task\task-2.cpp(152,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\admin\source\repos\ConsoleApplication_task\task-2.cpp(190,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\admin\source\repos\ConsoleApplication_task\task-2.cpp(228,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  ConsoleApplication_task.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication_task\x64\Debug\ConsoleApplication_task.exe
